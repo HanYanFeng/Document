@@ -101,4 +101,4 @@ dog | bird | cat
 foo | foo  | foo
 bar | bar  | bar
 baz | baz  | baz
-
+[其它文章连接](http://blog.leanote.com/post/freewalk/Markdown-语法手册#title-6)
