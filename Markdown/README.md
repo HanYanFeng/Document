@@ -94,5 +94,11 @@ Windowns下的MarkdownPad也用过，不过免费版的体验不是很好。
 Mac下的Mou是国人贡献的，口碑很好。
 Linux下的ReText不错。
 
-[原文连接](https://github.com/younghz/Markdown)
+[以上原文连接](https://github.com/younghz/Markdown)
+
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
 
